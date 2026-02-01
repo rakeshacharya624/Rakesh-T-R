@@ -1,2 +1,1 @@
-# Rakesh-T-R
-it's good
+print(hello world)
